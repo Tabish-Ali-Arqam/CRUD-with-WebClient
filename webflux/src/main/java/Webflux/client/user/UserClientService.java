@@ -1,4 +1,4 @@
-package Webflux.client;
+package Webflux.client.user;
 
 import Webflux.model.User;
 import lombok.RequiredArgsConstructor;
